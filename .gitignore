@@ -29,7 +29,6 @@ wheels/
 .idea/
 *.swp
 *.swo
-.vscode/settings.json
 
 # OS
 .DS_Store

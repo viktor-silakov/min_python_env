@@ -1,0 +1,8 @@
+{
+  "zencoder.enableRepoIndexing": false,
+  "zencoder.repoIndex.debug.keepZipFiles": false,
+  "python.defaultInterpreterPath": "${workspaceFolder}/venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": ["${workspaceFolder}"],
+  "python.autoComplete.extraPaths": ["${workspaceFolder}"]
+}
