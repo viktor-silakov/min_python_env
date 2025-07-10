@@ -1,25 +1,25 @@
-# Минимальное Python приложение
+# Minimal Python Application
 
-Простое приложение, которое получает случайные факты о кошках из API.
+A simple application that fetches random cat facts from an API.
 
-## Установка и запуск
+## Installation and Running
 
-1. Активируйте виртуальное окружение:
+1. Activate the virtual environment:
    ```bash
    source venv/bin/activate
    ```
 
-2. Установите зависимости:
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Запустите приложение:
+3. Run the application:
    ```bash
    python app.py
    ```
 
-## Деактивация виртуального окружения
+## Deactivating the Virtual Environment
 
 ```bash
 deactivate
